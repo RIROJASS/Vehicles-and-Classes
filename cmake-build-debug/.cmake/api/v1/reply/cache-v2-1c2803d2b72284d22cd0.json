@@ -55,7 +55,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "c:/Users/rojas/CLionProjects/Programming 2/L2.1 Vehicles and Classes/cmake-build-debug"
+			"value" : "c:/Users/rojas/CLionProjects/Programming 2/L2 Vehciles and Classes/L2.1 Vehicles and Classes/cmake-build-debug"
 		},
 		{
 			"name" : "CMAKE_CACHE_MAJOR_VERSION",
@@ -575,7 +575,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2.1 Vehicles and Classes/cmake-build-debug/CMakeFiles/pkgRedirects"
+			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2 Vehciles and Classes/L2.1 Vehicles and Classes/cmake-build-debug/CMakeFiles/pkgRedirects"
 		},
 		{
 			"name" : "CMAKE_GENERATOR",
@@ -647,7 +647,7 @@
 				}
 			],
 			"type" : "INTERNAL",
-			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2.1 Vehicles and Classes"
+			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2 Vehciles and Classes/L2.1 Vehicles and Classes"
 		},
 		{
 			"name" : "CMAKE_INSTALL_PREFIX",
@@ -1291,7 +1291,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2.1 Vehicles and Classes/cmake-build-debug"
+			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2 Vehciles and Classes/L2.1 Vehicles and Classes/cmake-build-debug"
 		},
 		{
 			"name" : "lab2_IS_TOP_LEVEL",
@@ -1315,7 +1315,7 @@
 				}
 			],
 			"type" : "STATIC",
-			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2.1 Vehicles and Classes"
+			"value" : "C:/Users/rojas/CLionProjects/Programming 2/L2 Vehciles and Classes/L2.1 Vehicles and Classes"
 		}
 	],
 	"kind" : "cache",
